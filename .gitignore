@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+build/
+dist/
+*.blend1
+*.blend
