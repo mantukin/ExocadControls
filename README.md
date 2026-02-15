@@ -2,6 +2,8 @@
 
 This Blender addon adds interactive zones on the edges of the 3D Viewport, allowing you to rotate and pan the camera by simply dragging the mouse near the edges, similar to navigation in Exocad software.
 
+![Demo](showcase/demo.gif)
+
 ## Features
 
 - **Roll Zone (Right Edge):** Click and drag vertically on the right edge of the viewport to roll the camera view.
